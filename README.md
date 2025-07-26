@@ -150,3 +150,10 @@ Real-world safety applications using IoT basics.
 Simple analog-to-digital conversion.
 
 Conditional logic in embedded systems.
+
+
+
+
+Tinkercad Model:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ce44570-a177-488a-ab18-ef8d82f41500" />
+
