@@ -155,5 +155,7 @@ Conditional logic in embedded systems.
 
 
 Tinkercad Model:
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ce44570-a177-488a-ab18-ef8d82f41500" />
+
+
+<img width="792" height="491" alt="image" src="https://github.com/user-attachments/assets/b470aad5-93bf-4915-aefe-4a0e64069bf1" />
 
