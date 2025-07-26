@@ -29,10 +29,8 @@ Arduino UNO	1
 MQ-2 Gas Sensor	1
 LM35 Temperature Sensor	1
 Buzzer	1
-Red LED (optional)	1
-16x2 LCD Display (optional)	1
 Breadboard & Jumper Wires	-
-Resistors (220Ω, 10kΩ)	-
+Resistors (1kΩ)	-
 
 
 
